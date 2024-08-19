@@ -65,7 +65,7 @@ You found me!
 ```
 
 renders as
-![](Pasted%20image%2020240819151848.png)
+![](../../../Pasted%20image%2020240819151848.png)
 ![](https://lucky6six.github.io/blog/get-started/featured_hu02aa61ae1d9de35cbe238d2676170cb9_341314_74ebdfbfabbec5ecc33c2416ac46e740.webp)
 {{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
 ![History View](https://raw.githubusercontent.com/denolehov/obsidian-git/master/images/history-view.png)

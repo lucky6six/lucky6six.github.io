@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/blog/teach-courses/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/blog/teach-courses/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/blog/teach-courses/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/blog/teach-courses/index.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "7f30250fa897d90f",
   "lastOpenFiles": [
+    "content/blog/teach-courses/featured.jpg",
+    "content/blog/teach-courses/ambient-piano.mp3",
+    "README.md",
     "avatar.jpg",
     "content/blog/teach-courses/index.md",
     "截屏2024-08-19 15.17.41 1.png",
     "Pasted image 20240819151848.png",
-    "content/blog/teach-courses/featured.jpg",
-    "content/blog/teach-courses/ambient-piano.mp3",
     "content/blog/second-brain/featured.jpg",
     "content/blog/project-management/index.md",
     "content/blog/project-management/featured.jpg",
     "hugo-blox/blox/all-access/README.md",
     "Pasted image 20240819151836.png",
-    "README.md",
     "LICENSE.md",
     "content/blog/second-brain/index.md",
     "content/authors/admin/avatar.jpg",
