@@ -31,7 +31,7 @@ bio: My research interests include AI, ML and OS.
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'lucky6six@qq.com'
+    url: 'mailto:lucky6six@qq.com'
     label: E-mail Me
   - icon: github
     url: https://github.com/lucky6six
@@ -57,6 +57,4 @@ highlight_name: true
 website: https://lucky6six.githun.io/
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm lucky6six
