@@ -11,8 +11,12 @@
             "id": "9710d966291282cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/teach-courses/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/blog/teach-courses/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/blog/teach-courses/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/blog/teach-courses/index.md"
+              }
             }
           }
         ]
@@ -140,18 +148,19 @@
   },
   "active": "9710d966291282cc",
   "lastOpenFiles": [
+    "content/blog/project-management/featured.jpg",
+    "content/blog/get-started/featured.jpg",
+    "截屏2024-08-19 15.17.41 1.png",
+    "hugo-blox/blox/all-access/README.md",
     "Pasted image 20240819151836.png",
     "content/blog/teach-courses/index.md",
     "content/blog/teach-courses/featured.jpg",
     "content/blog/teach-courses/ambient-piano.mp3",
     "README.md",
     "avatar.jpg",
-    "截屏2024-08-19 15.17.41 1.png",
     "Pasted image 20240819151848.png",
     "content/blog/second-brain/featured.jpg",
     "content/blog/project-management/index.md",
-    "content/blog/project-management/featured.jpg",
-    "hugo-blox/blox/all-access/README.md",
     "LICENSE.md",
     "content/blog/second-brain/index.md",
     "content/authors/admin/avatar.jpg",
@@ -159,7 +168,6 @@
     "2023-10-24.md",
     "content/blog/_index.md",
     "content/blog/data-visualization/index.md",
-    "content/blog/get-started/index.md",
-    "content/blog/get-started/featured.jpg"
+    "content/blog/get-started/index.md"
   ]
 }
