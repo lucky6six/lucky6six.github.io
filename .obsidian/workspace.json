@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/teach-courses/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/teach-courses/index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/teach-courses/index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/teach-courses/index.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "6c5b94bf2fc2c824",
   "lastOpenFiles": [
-    "content/blog/teach-courses/Pasted image 20240819151836.png",
-    "content/blog/teach-courses/index.md",
+    "content/blog/get-started/index.md",
+    "content/blog/get-started/featured.jpg",
+    "content/blog/second-brain/featured.jpg",
+    "content/blog/second-brain/index.md",
     "content/blog/teach-courses/featured.png",
+    "content/blog/teach-courses/index.md",
+    "content/blog/teach-courses/Pasted image 20240819151836.png",
     "content/blog/teach-courses/未命名.md",
     "未命名.md",
     "content/blog/teach-courses/featured.jpg",
@@ -162,14 +166,10 @@
     "截屏2024-08-19 15.17.41 1.png",
     "Pasted image 20240819151848.png",
     "content/blog/project-management/featured.jpg",
-    "content/blog/get-started/featured.jpg",
     "hugo-blox/blox/all-access/README.md",
-    "content/blog/second-brain/featured.jpg",
     "content/blog/project-management/index.md",
-    "content/blog/second-brain/index.md",
     "2023-10-24.md",
     "content/blog/_index.md",
-    "content/blog/data-visualization/index.md",
-    "content/blog/get-started/index.md"
+    "content/blog/data-visualization/index.md"
   ]
 }
