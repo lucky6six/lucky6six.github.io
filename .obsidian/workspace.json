@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/blog/teach-courses/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/blog/teach-courses/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "content/blog/teach-courses/index.md"
               }
             }
           }
@@ -144,11 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "53b7aa3c871a68dd",
+  "active": "6c5b94bf2fc2c824",
   "lastOpenFiles": [
-    "未命名.md",
-    "content/blog/teach-courses/index.md",
     "content/blog/teach-courses/Pasted image 20240819151836.png",
+    "content/blog/teach-courses/index.md",
+    "content/blog/teach-courses/featured.png",
+    "content/blog/teach-courses/未命名.md",
+    "未命名.md",
     "content/blog/teach-courses/featured.jpg",
     "content/blog/teach-courses/ambient-piano.mp3",
     "LICENSE.md",
@@ -163,7 +167,6 @@
     "content/blog/second-brain/featured.jpg",
     "content/blog/project-management/index.md",
     "content/blog/second-brain/index.md",
-    "content/authors/admin/avatar.jpg",
     "2023-10-24.md",
     "content/blog/_index.md",
     "content/blog/data-visualization/index.md",
