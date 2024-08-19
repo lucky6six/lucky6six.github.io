@@ -63,7 +63,7 @@ Provide a simple yet fun self-assessment by revealing the solutions to challenge
 You found me!
 {{</* /spoiler */>}}
 ```
-
+![alt text](<Pasted image 20240819151836.png>)
 renders as
 ![](../../../Pasted%20image%2020240819151848.png)
 ![](https://lucky6six.github.io/blog/get-started/featured_hu02aa61ae1d9de35cbe238d2676170cb9_341314_74ebdfbfabbec5ecc33c2416ac46e740.webp)
