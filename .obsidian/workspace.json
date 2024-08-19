@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e601bd2222e320",
+        "id": "eb93bbca47ad080c",
         "type": "tabs",
         "children": [
           {
-            "id": "9710d966291282cc",
+            "id": "6c5b94bf2fc2c824",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/teach-courses/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/teach-courses/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/teach-courses/index.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -146,26 +144,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9710d966291282cc",
+  "active": "53b7aa3c871a68dd",
   "lastOpenFiles": [
-    "content/blog/teach-courses/Pasted image 20240819151836.png",
-    "content/blog/project-management/featured.jpg",
-    "content/blog/get-started/featured.jpg",
-    "截屏2024-08-19 15.17.41 1.png",
-    "hugo-blox/blox/all-access/README.md",
-    "Pasted image 20240819151836.png",
+    "未命名.md",
     "content/blog/teach-courses/index.md",
+    "content/blog/teach-courses/Pasted image 20240819151836.png",
     "content/blog/teach-courses/featured.jpg",
     "content/blog/teach-courses/ambient-piano.mp3",
-    "README.md",
+    "LICENSE.md",
     "avatar.jpg",
+    "Pasted image 20240819151836.png",
+    "README.md",
+    "截屏2024-08-19 15.17.41 1.png",
     "Pasted image 20240819151848.png",
+    "content/blog/project-management/featured.jpg",
+    "content/blog/get-started/featured.jpg",
+    "hugo-blox/blox/all-access/README.md",
     "content/blog/second-brain/featured.jpg",
     "content/blog/project-management/index.md",
-    "LICENSE.md",
     "content/blog/second-brain/index.md",
     "content/authors/admin/avatar.jpg",
-    "content/blog/data-visualization/featured.jpg",
     "2023-10-24.md",
     "content/blog/_index.md",
     "content/blog/data-visualization/index.md",

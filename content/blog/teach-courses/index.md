@@ -63,9 +63,10 @@ Provide a simple yet fun self-assessment by revealing the solutions to challenge
 You found me!
 {{</* /spoiler */>}}
 ```
-![alt text](<Pasted image 20240819151836.png>)
+
+
 renders as
-![](../../../Pasted%20image%2020240819151848.png)
+
 ![](https://lucky6six.github.io/blog/get-started/featured_hu02aa61ae1d9de35cbe238d2676170cb9_341314_74ebdfbfabbec5ecc33c2416ac46e740.webp)
 {{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
 ![History View](https://raw.githubusercontent.com/denolehov/obsidian-git/master/images/history-view.png)
@@ -78,11 +79,10 @@ features:
   math:
     enable: true
 ```
-![](Pasted%20image%2020240819151836.png)
-![](Pasted%20image%2020240819151836.png)
+
 
 To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
-![](截屏2024-08-19%2015.17.41%201.png)
+
 Example **math block**:
 
 ```latex
