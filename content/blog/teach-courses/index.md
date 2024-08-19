@@ -78,7 +78,7 @@ features:
   math:
     enable: true
 ```
-
+![](Pasted%20image%2020240819151836.png)
 ![](Pasted%20image%2020240819151836.png)
 
 To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
