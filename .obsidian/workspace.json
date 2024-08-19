@@ -11,11 +11,9 @@
             "id": "7f30250fa897d90f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/blog/teach-courses/index.md",
-                "mode": "source",
-                "source": false
+                "file": "avatar.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/teach-courses/index.md",
+                "file": "avatar.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/teach-courses/index.md",
+                "file": "avatar.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/teach-courses/index.md"
+                "file": "avatar.jpg"
               }
             }
           }
@@ -148,19 +146,24 @@
   },
   "active": "7f30250fa897d90f",
   "lastOpenFiles": [
+    "content/blog/teach-courses/index.md",
+    "截屏2024-08-19 15.17.41 1.png",
+    "Pasted image 20240819151848.png",
     "content/blog/teach-courses/featured.jpg",
     "content/blog/teach-courses/ambient-piano.mp3",
-    "content/blog/second-brain/index.md",
     "content/blog/second-brain/featured.jpg",
-    "content/authors/admin/avatar.jpg",
-    "content/blog/teach-courses/index.md",
+    "content/blog/project-management/index.md",
+    "content/blog/project-management/featured.jpg",
+    "hugo-blox/blox/all-access/README.md",
+    "Pasted image 20240819151836.png",
     "avatar.jpg",
-    "content/blog/data-visualization/featured.jpg",
     "README.md",
     "LICENSE.md",
+    "content/blog/second-brain/index.md",
+    "content/authors/admin/avatar.jpg",
+    "content/blog/data-visualization/featured.jpg",
     "2023-10-24.md",
     "content/blog/_index.md",
-    "content/blog/project-management/index.md",
     "content/blog/data-visualization/index.md",
     "content/blog/get-started/index.md",
     "content/blog/get-started/featured.jpg"

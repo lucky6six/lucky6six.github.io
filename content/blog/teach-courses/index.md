@@ -20,7 +20,7 @@ image:
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
+![](avatar.jpg)
 ## Video
 ![](avatar.jpg)
 
@@ -65,9 +65,10 @@ You found me!
 ```
 
 renders as
-
+![](Pasted%20image%2020240819151848.png)
+![](https://lucky6six.github.io/blog/get-started/featured_hu02aa61ae1d9de35cbe238d2676170cb9_341314_74ebdfbfabbec5ecc33c2416ac46e740.webp)
 {{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
+![History View](https://raw.githubusercontent.com/denolehov/obsidian-git/master/images/history-view.png)
 ## Math
 
 Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
@@ -78,8 +79,10 @@ features:
     enable: true
 ```
 
-To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
+![](Pasted%20image%2020240819151836.png)
 
+To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
+![](截屏2024-08-19%2015.17.41%201.png)
 Example **math block**:
 
 ```latex
