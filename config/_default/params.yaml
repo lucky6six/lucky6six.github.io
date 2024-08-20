@@ -63,10 +63,10 @@ header:
     # logo:
     #   test:"lucky6six"
     #   filename:"avatar"
-    # button:
-    #   enable: true
-    #   text: "Follow Me"
-    #   url: "https://github.com/lucky6six"
+    button:
+      enable: true
+      text: "Follow Me"
+      url: "https://github.com/lucky6six"
     show_search: true
     show_theme_chooser: true
 

@@ -113,16 +113,16 @@ renders as
   - blox-plugins-netlify-cms
   - blox-plugins-reveal
 ```
+
 ##### Highlighting
 <mark>Highlight</mark> important text with `mark`:
 ```html
 <mark>Highlighted text</mark>
 ```
+
 ##### Callouts
 
 Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
 
 ```markdown
 {{%/* callout note */%}}
@@ -196,7 +196,7 @@ features:
 - data-category-id
 - data-mapping
 #### discussion
-有人评论后，giscus 会自动在配置好的仓库的 discussion 里创建一条数据用于保存评论。
-![../../../img/blog/giscus/discussion-manage.png](https://www.lixueduan.com/img/blog/giscus/discussion-manage.png "discussion-manage")
+有人评论后，giscus 会自动在配置好的仓库的 discussion 里创建一条数据用于保存评论,在这里可以对评论进行管理
+![](Pasted%20image%2020240820165405.png)
 
-在这里可以对评论进行管理
+
