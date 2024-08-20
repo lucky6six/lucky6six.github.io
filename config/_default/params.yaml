@@ -63,10 +63,10 @@ header:
     # logo:
     #   test:"lucky6six"
     #   filename:"avatar"
-    button:
-      enable: true
-      text: "Follow Me"
-      url: "https://github.com/lucky6six"
+    # button:
+    #   enable: true
+    #   text: "Follow Me"
+    #   url: "https://github.com/lucky6six"
     show_search: true
     show_theme_chooser: true
 
@@ -95,22 +95,22 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
-  comment:
-    # Choose a provider: giscus, disqus, commento, or '' to disable commenting
-    provider: 'giscus'
-    giscus:
-      repo: 'lucky6six/lucky6six.github.io'
-      repo_id: 'R_kgDOMkJgZw'
-      category: 'Announcements'
-      category_id: 'DIC_kwDOMkJgZ84Chy64'
-      theme: preferred_color_scheme
-      language_code: en
-      mapping: pathname
-    disqus:
-      # Paste the shortname from your Disqus dashboard.
-      shortname: ''
-      # Show comment count in page header? (true/false)
-      show_count: true
-    commento:
-      # If you self-host Commento, enter your custom Commento URL here.
-      url: ''
+  # comment:
+  #   # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+  #   provider: 'giscus'
+  #   giscus:
+  #     repo: 'lucky6six/lucky6six.github.io'
+  #     repo_id: 'R_kgDOMkJgZw'
+  #     category: 'Announcements'
+  #     category_id: 'DIC_kwDOMkJgZ84Chy64'
+  #     theme: preferred_color_scheme
+  #     language_code: en
+  #     mapping: pathname
+  #   disqus:
+  #     # Paste the shortname from your Disqus dashboard.
+  #     shortname: ''
+  #     # Show comment count in page header? (true/false)
+  #     show_count: true
+  #   commento:
+  #     # If you self-host Commento, enter your custom Commento URL here.
+  #     url: ''
