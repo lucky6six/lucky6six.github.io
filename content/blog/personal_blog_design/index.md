@@ -186,8 +186,9 @@ features:
 然后打开之前选择的仓库，进入设置界面，勾选上 Discussions 以开启该仓库的 Discussions。
 3. 从 giscus 官网获取配置信息
 完成上述准备工作后就可以访问 [giscus 官网](https://giscus.app/zh-CN) 获取配置信息了，具体如下：
-
-![../../../img/blog/giscus/giscus-config-preview.png](https://www.lixueduan.com/img/blog/giscus/giscus-config-preview.png "giscus-config-preview")
+- 映射关系：一般使用pathname
+- discussion分类：推荐使用announcements
+- 勾选只搜索该分类中的discussion
 4. 配置完成后，会生成一个配置文件，主要关注以下字段：配置到blog对应位置（即上一步的yaml文件中）即可。
 - data-repo
 - data-repo-id

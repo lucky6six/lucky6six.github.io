@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/创建个人blog的技术路线探讨/index.md",
+                "file": "content/blog/personal_blog_design/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/创建个人blog的技术路线探讨/index.md",
+                "file": "content/blog/personal_blog_design/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/创建个人blog的技术路线探讨/index.md",
+                "file": "content/blog/personal_blog_design/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/创建个人blog的技术路线探讨/index.md"
+                "file": "content/blog/personal_blog_design/index.md"
               }
             }
           }
@@ -146,20 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a00259a68c004fb3",
+  "active": "53b7aa3c871a68dd",
   "lastOpenFiles": [
-    "content/blog/创建个人blog的技术路线探讨/featured.png",
-    "content/blog/创建个人blog的技术路线探讨/index.md",
-    "content/blog/创建个人blog的技术路线探讨/Pasted image 20240819190718.png",
-    "content/blog/创建个人blog的技术路线探讨/Pasted image 20240820161304.png",
+    "content/blog/personal_blog_design/featured.png",
+    "content/blog/personal_blog_design/index.md",
+    "content/blog/personal_blog_design/Pasted image 20240819190718.png",
+    "content/blog/personal_blog_design/Pasted image 20240820161304.png",
     "assets/media/avatar.jpg",
-    "content/blog/创建个人blog的技术路线探讨/Pasted image 20240819213018.png",
-    "content/blog/创建个人blog的技术路线探讨/Pasted image 20240819212602.png",
-    "content/blog/创建个人blog的技术路线探讨/Pasted image 20240819212117.png",
-    "content/blog/创建个人blog的技术路线探讨/Pasted image 20240819212029.png",
+    "content/blog/personal_blog_design/Pasted image 20240819213018.png",
+    "content/blog/personal_blog_design/Pasted image 20240819212602.png",
+    "content/blog/personal_blog_design/Pasted image 20240819212117.png",
+    "content/blog/personal_blog_design/Pasted image 20240819212029.png",
     "content/blog/_index.md",
-    "content/blog/创建个人blog的技术路线探讨/Pasted image 20240819192317.png",
-    "content/blog/创建个人blog的技术路线探讨/Pasted image 20240819210556.png",
+    "content/blog/personal_blog_design/Pasted image 20240819192317.png",
+    "content/blog/personal_blog_design/Pasted image 20240819210556.png",
     "content/blog/project-management/index.md",
     "content/blog/second-brain/index.md",
     "content/blog/data-visualization/index.md",
@@ -170,7 +170,7 @@
     "content/blog/teach-courses/index.md",
     "content/blog/创建个人blog的技术路线探讨/未命名.md",
     "content/blog/data-visualization/未命名.md",
-    "content/blog/创建个人blog的技术路线探讨",
+    "content/blog/personal_blog_design",
     "命名",
     "content/blog/get-started/index.md",
     "README.md",
