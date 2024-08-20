@@ -61,7 +61,7 @@ header:
   navbar:
     enable: true
     logo:
-      text:"lucky6six"
+      text:""
       filename:"icon.svg"
     button:
       enable: true
