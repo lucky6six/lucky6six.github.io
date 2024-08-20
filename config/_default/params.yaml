@@ -60,9 +60,9 @@ marketing:
 header:
   navbar:
     enable: true
-    # logo:
-    #   test:"lucky6six"
-    #   filename:"avatar"
+    logo:
+      text:"lucky6six"
+      filename:"avatar"
     button:
       enable: true
       text: "Follow Me"
