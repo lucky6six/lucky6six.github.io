@@ -62,7 +62,7 @@ header:
     enable: true
     logo:
       text:"lucky6six"
-      filename:"avatar"
+      filename:"avatar.svg"
     button:
       enable: true
       text: "Follow Me"
