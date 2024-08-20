@@ -122,9 +122,7 @@ renders as
 ```
 
 ##### Callouts
-
 Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
-
 ```markdown
 {{%/* callout note */%}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
@@ -203,4 +201,13 @@ features:
 
 ### hugo项目结构
 
-assets/custom：
+assets/custom：放置网站标签页icon：icon.png，放置header logo图片svg
+assets/media/icons/custom:放置一些自定义图标，通过-icon调用
+content：网站内容，文件夹嵌套就是路径嵌套，内容页为_index.md,封面图为featured.png，内容页只访问同层附件
+hugo-blox：框架调用，一般不要改
+config：
+- hugo：网站总体title和baseURL,以及page options
+- menus：配置header bar中菜单路由
+- params：配置header，footer，feature（comment，seo等）
+- languages：略
+- module：框架层配置，勿动
