@@ -61,8 +61,8 @@ header:
   navbar:
     enable: true
     logo:
-      text:""
-      filename:"icon.svg"
+      text: ""
+      filename: "icon.svg"
     button:
       enable: true
       text: "Follow Me"
