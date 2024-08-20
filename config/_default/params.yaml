@@ -95,14 +95,14 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
-  # comment:
-  #   # Choose a provider: giscus, disqus, commento, or '' to disable commenting
-  #   provider: 'giscus'
-  #   giscus:
-  #     repo: 'lucky6six/lucky6six.github.io'
-  #     repo_id: 'R_kgDOMkJgZw'
-  #     category: 'Announcements'
-  #     category_id: 'DIC_kwDOMkJgZ84Chy64'
-  #     theme: preferred_color_scheme
-  #     language_code: en
-  #     mapping: pathname
+  comment:
+    # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+    provider: 'giscus'
+    giscus:
+      repo: 'lucky6six/lucky6six.github.io'
+      repo_id: 'R_kgDOMkJgZw'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOMkJgZ84Chy64'
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
