@@ -27,9 +27,46 @@ marketing:
     baidu: ''
 
 # Site header
+# header:
+#   navbar:
+#     # Display the navigation bar?
+#     enable: true
+#     # Choose a built-in navigation blox or create your own
+#     blox: "navbar"
+#     # Align menu links: `left`, `center`, or `right`
+#     align: "center"
+#     # Fix the navigation bar to the top of the page
+#     fixed_to_top: true
+#     logo:
+#       # Logo text
+#       text: ""
+#       # Logo filename in `assets/media/` folder
+#       filename: "logo.svg"
+#     # Shop a call-to-action button in the top right?
+#     button:
+#       enable: true
+#       text: "Get Started"
+#       url: "https://hugoblox.com/templates/"
+#     # Let the user choose between light or dark mode?
+#     show_theme_chooser: true
+#     # Let the user search from the navigation bar?
+#     show_search: true
+#     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
+#     highlight_active_link: true
+#     # Show a language chooser (if you have translated your site content)?
+#     show_translations: true
+#     # If `show_translations` is enabled, do you wish to hide the current language name?
+#     hide_language_name: false
 header:
   navbar:
     enable: true
+    logo:
+      test:"lucky6six"
+      filename:"avatar"
+    button:
+      enable: true
+      text: "Follow Me"
+      url: "https://github.com/lucky6six"
     show_search: true
     show_theme_chooser: true
 
@@ -58,3 +95,22 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
+  comment:
+    # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+    provider: 'giscus'
+    giscus:
+      repo: 'lucky6six/lucky6six.github.io'
+      repo_id: 'R_kgDOMkJgZw'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOMkJgZ84Chy64'
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
+    disqus:
+      # Paste the shortname from your Disqus dashboard.
+      shortname: ''
+      # Show comment count in page header? (true/false)
+      show_count: true
+    commento:
+      # If you self-host Commento, enter your custom Commento URL here.
+      url: ''

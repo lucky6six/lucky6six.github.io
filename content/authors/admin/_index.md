@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:lucky6six@qq.com'
     label: E-mail Me
-  - icon: github
+  - icon: brands/github
     url: https://github.com/lucky6six
     label: github
   # - icon: brands/x
@@ -46,9 +46,9 @@ profiles:
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  # - icon: rss
+  #   url: ./post/index.xml
+  #   label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
