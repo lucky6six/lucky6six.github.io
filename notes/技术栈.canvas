@@ -8,7 +8,7 @@
 		{"id":"dc9a73366eabe64c","x":-932,"y":-280,"width":250,"height":60,"type":"text","text":"AI加速"},
 		{"id":"608d0af556a5ca3d","x":-220,"y":90,"width":250,"height":60,"type":"text","text":"大语言模型架构（transformer......）"},
 		{"id":"60b014c17cb60a25","x":-220,"y":-60,"width":250,"height":60,"type":"text","text":"传统（非transformer）网络模型"},
-		{"id":"98f8780289c5e234","x":-220,"y":-340,"width":250,"height":60,"type":"text","text":"传统机器学习/ML基础"}
+		{"id":"98f8780289c5e234","x":-220,"y":-220,"width":250,"height":60,"type":"text","text":"传统机器学习/ML基础"}
 	],
 	"edges":[
 		{"id":"75461ab7e9a59793","fromNode":"d551dd5a248ab005","fromSide":"right","toNode":"98f8780289c5e234","toSide":"left"},
