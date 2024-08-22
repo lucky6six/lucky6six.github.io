@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6dbf50d309d77599",
+        "id": "4353e91375b66b89",
         "type": "tabs",
         "children": [
           {
-            "id": "a00259a68c004fb3",
+            "id": "74afebff4da63f49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md",
-                "mode": "source",
-                "source": false
+                "file": "ignore/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md",
+                "file": "ignore/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md",
+                "file": "ignore/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md"
+                "file": "ignore/未命名.canvas"
               }
             }
           }
@@ -146,8 +149,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a00259a68c004fb3",
+  "active": "74afebff4da63f49",
   "lastOpenFiles": [
+    "content/blog/personal_blog_design/index.md",
+    "ignore/未命名.canvas",
+    "LICENSE.md",
+    "README.md",
+    "ignore",
     "assets/media/icon.svg",
     "assets/media/icon.png",
     "assets/media/IMG_202408207915_512x512.png",
@@ -155,11 +163,9 @@
     "content/blog/personal_blog_design/Pasted image 20240820165409.png",
     "content/blog/personal_blog_design/Pasted image 20240820165405.png",
     "content/blog/personal_blog_design/featured.png",
-    "content/blog/personal_blog_design/index.md",
     "content/blog/personal_blog_design/Pasted image 20240819190718.png",
     "content/blog/personal_blog_design/Pasted image 20240820161304.png",
     "assets/media/avatar.jpg",
-    "content/blog/personal_blog_design/Pasted image 20240819213018.png",
     "content/blog/_index.md",
     "content/blog/project-management/index.md",
     "content/blog/second-brain/index.md",
@@ -174,8 +180,6 @@
     "content/blog/personal_blog_design",
     "命名",
     "content/blog/get-started/index.md",
-    "README.md",
-    "LICENSE.md",
     "content/blog/teach-courses/未命名.md",
     "未命名.md",
     "content/blog/teach-courses/ambient-piano.mp3",
