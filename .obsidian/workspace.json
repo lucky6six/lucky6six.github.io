@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "ignore/未命名.canvas",
+                "file": "notes/技术栈.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -172.9585937499998,
+                  "y": 35.90828125000066,
                   "zoom": 0
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ignore/未命名.canvas",
+                "file": "notes/技术栈.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ignore/未命名.canvas",
+                "file": "notes/技术栈.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ignore/未命名.canvas"
+                "file": "notes/技术栈.canvas"
               }
             }
           }
@@ -151,8 +151,10 @@
   },
   "active": "74afebff4da63f49",
   "lastOpenFiles": [
+    "notes",
+    "backup",
     "content/blog/personal_blog_design/index.md",
-    "ignore/未命名.canvas",
+    "notes/技术栈.canvas",
     "LICENSE.md",
     "README.md",
     "ignore",
