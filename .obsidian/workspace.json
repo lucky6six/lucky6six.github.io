@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Markdown",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6110eb43bd372764",
+  "active": "342b532758babbe7",
   "lastOpenFiles": [
     "ignore/pytorch/pytorch编译安装.md",
     "notes/技术栈.canvas",
