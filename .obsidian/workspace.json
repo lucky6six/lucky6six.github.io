@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4353e91375b66b89",
+        "id": "56c2e3e9bdc440e7",
         "type": "tabs",
         "children": [
           {
-            "id": "74afebff4da63f49",
+            "id": "6110eb43bd372764",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "notes/技术栈.canvas",
-                "viewState": {
-                  "x": -383.5817381024394,
-                  "y": 1062.0584114334265,
-                  "zoom": -0.42623897686600687
-                }
+                "file": "notes/pytorch编译安装.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/技术栈.canvas",
+                "file": "notes/pytorch编译安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/技术栈.canvas",
+                "file": "notes/pytorch编译安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/技术栈.canvas"
+                "file": "notes/pytorch编译安装.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,10 +145,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "74afebff4da63f49",
+  "active": "6110eb43bd372764",
   "lastOpenFiles": [
-    "notes/未命名.md",
+    "ignore/pytorch/pytorch编译安装.md",
     "notes/技术栈.canvas",
+    "notes/未命名.md",
     "notes",
     "backup",
     "content/blog/personal_blog_design/index.md",

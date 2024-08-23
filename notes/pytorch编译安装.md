@@ -1,8 +1,4 @@
 # pytorch源码
-202.120.32.245 ： 9081
-localhost, 127.0.0.0/8, ::1
-编译
-![[168728508-df501c1e-2f8b-444b-a81e-fa1f0563bede-1.jpg]
 python 3.6
 cuda 11.7
 pytorch（1.8.0/direct）
