@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"d2dcd405627bcdc6","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"fe224d755b87be5c","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"f5e39e5031892944","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"4a51c7651d36c489","type":"text","text":"GPU","x":-125,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"e8a168c59d02f4e6","type":"text","text":"CUDA：GPU control effectively","x":-125,"y":-180,"width":250,"height":60,"color":"1"},
+		{"id":"3a12d599a90c2420","type":"text","text":"compiler：optimization and deployment","x":-125,"y":-340,"width":250,"height":60,"color":"2"},
+		{"id":"9088ca5f11af300c","type":"text","text":"FPGA","x":320,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"68ca6475944caaa9","type":"text","text":"CPU","x":-540,"y":-30,"width":250,"height":60,"color":"4"},
+		{"id":"6858cddde8a7ab58","type":"text","text":"framework：define and train","x":-125,"y":-520,"width":250,"height":70,"color":"6"},
+		{"id":"760f3bb1909a3967","type":"text","text":"model","x":-125,"y":-420,"width":250,"height":60,"color":"5"},
+		{"id":"463f69c39b590c62","type":"text","text":"code（eg:CUDA code）","x":-125,"y":-280,"width":250,"height":60,"color":"5"},
+		{"id":"63fadb7d57624bd1","type":"text","text":"cuDNN：DL lib ofCUDA ","x":160,"y":-177,"width":160,"height":55,"color":"1"},
+		{"id":"bc95667b0b72135c","type":"text","text":"eg可能优化遍历，算子融合","x":280,"y":-390,"width":250,"height":60},
+		{"id":"92ac867098bea43c","type":"text","text":"config","x":-125,"y":-620,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"6621818f9601c1c9","fromNode":"e8a168c59d02f4e6","fromSide":"bottom","toNode":"d2dcd405627bcdc6","toSide":"top"},
+		{"id":"c44179f76a8d5177","fromNode":"e8a168c59d02f4e6","fromSide":"right","toNode":"63fadb7d57624bd1","toSide":"left"},
+		{"id":"a7cac9b77d0276e4","fromNode":"3a12d599a90c2420","fromSide":"bottom","toNode":"e8a168c59d02f4e6","toSide":"top"},
+		{"id":"98f18a4baee5fdd5","fromNode":"3a12d599a90c2420","fromSide":"left","toNode":"68ca6475944caaa9","toSide":"top"},
+		{"id":"1f54e32170b3966c","fromNode":"3a12d599a90c2420","fromSide":"right","toNode":"9088ca5f11af300c","toSide":"top"},
+		{"id":"673edc84fdcf0ce3","fromNode":"92ac867098bea43c","fromSide":"bottom","toNode":"6858cddde8a7ab58","toSide":"top"},
+		{"id":"48b79e63ec70f93f","fromNode":"6858cddde8a7ab58","fromSide":"bottom","toNode":"760f3bb1909a3967","toSide":"top"},
+		{"id":"507d8c313b206345","fromNode":"760f3bb1909a3967","fromSide":"bottom","toNode":"3a12d599a90c2420","toSide":"top"},
+		{"id":"cf2ecd320e59ae23","fromNode":"6858cddde8a7ab58","fromSide":"left","toNode":"e8a168c59d02f4e6","toSide":"left"},
+		{"id":"2620310e60a2418e","fromNode":"3a12d599a90c2420","fromSide":"right","toNode":"bc95667b0b72135c","toSide":"left"}
+	]
+}

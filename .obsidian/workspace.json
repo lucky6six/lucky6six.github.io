@@ -15,9 +15,9 @@
               "state": {
                 "file": "notes/技术栈.canvas",
                 "viewState": {
-                  "x": -600.0584320074672,
-                  "y": 45.810756241088086,
-                  "zoom": -0.5244552244246006
+                  "x": -383.5817381024394,
+                  "y": 1062.0584114334265,
+                  "zoom": -0.42623897686600687
                 }
               }
             }
@@ -151,10 +151,11 @@
   },
   "active": "74afebff4da63f49",
   "lastOpenFiles": [
+    "notes/未命名.md",
+    "notes/技术栈.canvas",
     "notes",
     "backup",
     "content/blog/personal_blog_design/index.md",
-    "notes/技术栈.canvas",
     "LICENSE.md",
     "README.md",
     "ignore",
