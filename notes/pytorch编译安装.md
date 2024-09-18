@@ -28,7 +28,7 @@ python setup.py install
 ```
 ### 踩坑指南：
 - 编译过程中数学库math相关问题:常见于较旧版本的pytorch
->在./caffe2/utils/math_gpu.cu中#include <thrust/host_vector.h>
+>在./caffe2/utils/math_gpu康达康达康达cu中#include <thrust/host_vector.h>
 - torch中部分库缺失：可能是编译过程中有中断后继续编译，导致部分内容编译链接有误。
 >重新编译
 python setup.py clean
