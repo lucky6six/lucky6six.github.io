@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ignore/新机迁移/config your shell env.md",
+                "file": "content/blog/personal_blog_design/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Markdown",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ignore/新机迁移/config your shell env.md",
+                "file": "content/blog/personal_blog_design/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ignore/新机迁移/config your shell env.md",
+                "file": "content/blog/personal_blog_design/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ignore/新机迁移/config your shell env.md"
+                "file": "content/blog/personal_blog_design/index.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,15 +146,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "342b532758babbe7",
+  "active": "6110eb43bd372764",
   "lastOpenFiles": [
+    "content/blog/_index.md",
+    "notes/AI技术栈.canvas",
+    "notes/Pasted image 20240918101809.png",
+    "notes/markdown.md.md",
+    "notes/深度学习架构.canvas",
+    "ignore/新机迁移/config your shell env.md",
     "ignore/新机迁移/新机器设置与电脑数据转移.md",
     "hugo-blox/blox/community/README.md",
     "hugo-blox/blox/all-access/README.md",
     "ignore/pytorch/pytorch编译安装.md",
-    "notes/markdown.md.md",
     "notes/pytorch编译安装.md",
-    "notes/技术栈.canvas",
     "notes/未命名.md",
     "notes",
     "backup",
@@ -172,8 +175,6 @@
     "content/blog/personal_blog_design/featured.png",
     "content/blog/personal_blog_design/Pasted image 20240819190718.png",
     "content/blog/personal_blog_design/Pasted image 20240820161304.png",
-    "assets/media/avatar.jpg",
-    "content/blog/_index.md",
     "content/blog/project-management/index.md",
     "content/blog/second-brain/index.md",
     "content/blog/data-visualization/index.md",
@@ -189,7 +190,6 @@
     "content/blog/get-started/index.md",
     "content/blog/teach-courses/未命名.md",
     "未命名.md",
-    "content/blog/teach-courses/ambient-piano.mp3",
-    "2023-10-24.md"
+    "content/blog/teach-courses/ambient-piano.mp3"
   ]
 }
