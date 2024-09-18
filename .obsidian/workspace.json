@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/pytorch编译安装.md",
+                "file": "ignore/新机迁移/config your shell env.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/pytorch编译安装.md",
+                "file": "ignore/新机迁移/config your shell env.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/pytorch编译安装.md",
+                "file": "ignore/新机迁移/config your shell env.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/pytorch编译安装.md"
+                "file": "ignore/新机迁移/config your shell env.md"
               }
             }
           }
@@ -147,7 +147,12 @@
   },
   "active": "6110eb43bd372764",
   "lastOpenFiles": [
+    "ignore/新机迁移/新机器设置与电脑数据转移.md",
+    "hugo-blox/blox/community/README.md",
+    "hugo-blox/blox/all-access/README.md",
     "ignore/pytorch/pytorch编译安装.md",
+    "notes/markdown.md.md",
+    "notes/pytorch编译安装.md",
     "notes/技术栈.canvas",
     "notes/未命名.md",
     "notes",
@@ -183,7 +188,6 @@
     "content/blog/teach-courses/未命名.md",
     "未命名.md",
     "content/blog/teach-courses/ambient-piano.mp3",
-    "hugo-blox/blox/all-access/README.md",
     "2023-10-24.md"
   ]
 }
