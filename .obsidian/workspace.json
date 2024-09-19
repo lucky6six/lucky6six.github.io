@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "56c2e3e9bdc440e7",
+        "id": "39b0ed807b74e075",
         "type": "tabs",
         "children": [
           {
-            "id": "6110eb43bd372764",
+            "id": "246d4137365b26c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/personal_blog_design/index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/blog/personal_blog_design/index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6110eb43bd372764",
+  "active": "246d4137365b26c6",
   "lastOpenFiles": [
+    "content/blog/personal_blog_design/index.md",
     "content/blog/_index.md",
     "notes/AI技术栈.canvas",
     "notes/Pasted image 20240918101809.png",
@@ -162,7 +155,6 @@
     "notes/未命名.md",
     "notes",
     "backup",
-    "content/blog/personal_blog_design/index.md",
     "LICENSE.md",
     "README.md",
     "ignore",
