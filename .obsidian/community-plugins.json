@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-languagetool-plugin",
   "language-translator",
-  "cmdr"
+  "cmdr",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-shellcommands"
 ]

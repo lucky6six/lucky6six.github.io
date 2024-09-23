@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/leetcode_array/index.md",
+                "file": "content/blog/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Markdown",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3bc8b068c4efc138",
@@ -80,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69d547a9ef50d2ee",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "content/blog/leetcode_array/index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4761fb57d39473ab",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "content/blog/leetcode_array/index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "68ccc153909e4c00",
             "type": "leaf",
             "state": {
@@ -118,22 +89,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "342b532758babbe7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "content/blog/leetcode_array/index.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 341.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,18 +104,32 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "93fcb8f75c44c438",
   "lastOpenFiles": [
+    "content/blog/obsidian插件开发-自定义命令/index.md",
+    "plugin/obsidian-sample-plugin/versions.json",
+    "plugin/obsidian-sample-plugin/version-bump.mjs",
+    "plugin/obsidian-sample-plugin/tsconfig.json",
+    "plugin/obsidian-sample-plugin/styles.css",
+    "plugin/obsidian-sample-plugin/package.json",
+    "plugin/obsidian-sample-plugin/manifest.json",
+    "plugin/obsidian-sample-plugin/main.ts",
+    "plugin/obsidian-sample-plugin/esbuild.config.mjs",
+    "plugin/obsidian-sample-plugin/README.md",
+    "plugin/obsidian-sample-plugin",
+    "plugin",
+    "content/blog/obsidian插件开发-自定义命令/未命名.md",
     "content/blog/personal_blog_design/index.md",
-    "content/blog/leetcode_array/index.md",
-    "content/blog/leetcode_array",
-    "content/blog/personal_blog_design/未命名.canvas",
     "content/blog/personal_blog_design/featured.png",
     "content/blog/personal_blog_design/未命名.md",
-    "content/blog/personal_blog_design/未命名",
+    "content/blog/leetcode_array/index.md",
+    "content/blog/leetcode_array/未命名.md",
+    "content/blog/personal_blog_design/未命名.canvas",
     "content/blog/_index.md",
     "notes/AI技术栈.canvas",
     "notes/Pasted image 20240918101809.png",
@@ -167,11 +142,8 @@
     "ignore/pytorch/pytorch编译安装.md",
     "notes/pytorch编译安装.md",
     "notes/未命名.md",
-    "notes",
-    "backup",
     "LICENSE.md",
     "README.md",
-    "ignore",
     "assets/media/icon.svg",
     "assets/media/icon.png",
     "assets/media/IMG_202408207915_512x512.png",
@@ -186,14 +158,6 @@
     "content/uses.md",
     "content/_index.md",
     "content/tags/_index.md",
-    "2023-10-25.md",
-    "content/blog/teach-courses/index.md",
-    "content/blog/创建个人blog的技术路线探讨/未命名.md",
-    "content/blog/data-visualization/未命名.md",
-    "content/blog/personal_blog_design",
-    "命名",
-    "content/blog/get-started/index.md",
-    "content/blog/teach-courses/未命名.md",
-    "content/blog/teach-courses/ambient-piano.mp3"
+    "2023-10-25.md"
   ]
 }
