@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "39b0ed807b74e075",
+        "id": "c49ea25976af092e",
         "type": "tabs",
         "children": [
           {
-            "id": "246d4137365b26c6",
+            "id": "93fcb8f75c44c438",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/leetcode_array/index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/blog/leetcode_array/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/blog/leetcode_array/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/blog/leetcode_array/index.md"
+              }
             }
           }
         ]
@@ -138,9 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "246d4137365b26c6",
+  "active": "93fcb8f75c44c438",
   "lastOpenFiles": [
     "content/blog/personal_blog_design/index.md",
+    "content/blog/leetcode_array/index.md",
+    "content/blog/leetcode_array",
+    "content/blog/personal_blog_design/未命名.canvas",
+    "content/blog/personal_blog_design/featured.png",
+    "content/blog/personal_blog_design/未命名.md",
+    "content/blog/personal_blog_design/未命名",
     "content/blog/_index.md",
     "notes/AI技术栈.canvas",
     "notes/Pasted image 20240918101809.png",
@@ -164,7 +178,6 @@
     "assets/media/avatar.svg",
     "content/blog/personal_blog_design/Pasted image 20240820165409.png",
     "content/blog/personal_blog_design/Pasted image 20240820165405.png",
-    "content/blog/personal_blog_design/featured.png",
     "content/blog/personal_blog_design/Pasted image 20240819190718.png",
     "content/blog/personal_blog_design/Pasted image 20240820161304.png",
     "content/blog/project-management/index.md",
@@ -181,7 +194,6 @@
     "命名",
     "content/blog/get-started/index.md",
     "content/blog/teach-courses/未命名.md",
-    "未命名.md",
     "content/blog/teach-courses/ambient-piano.mp3"
   ]
 }
