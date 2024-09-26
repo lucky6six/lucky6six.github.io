@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/blog/leetcode_array/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,6 +89,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "49b0de1ef6362690",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/blog/leetcode_array/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cd666a0c68c57aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/blog/leetcode_array/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a14bea885803928e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/blog/leetcode_array/index.md"
+              }
+            }
           }
         ]
       }
@@ -111,26 +150,30 @@
   },
   "active": "93fcb8f75c44c438",
   "lastOpenFiles": [
+    "content/blog/leetcode_array/featured.png",
+    "content/blog/leetcode_array/index.md",
+    "content/blog/leetcode_array",
     "content/blog/obsidian插件开发-自定义命令/index.md",
+    "content/blog/example/featured.png",
+    "content/blog/example/index.md",
+    "content/blog/example",
+    "content/blog/{{input}}",
+    "content/blog/new",
+    "new",
+    "content/authors/_index.md",
+    "content/blog/_index.md",
     "plugin/obsidian-sample-plugin/versions.json",
     "plugin/obsidian-sample-plugin/version-bump.mjs",
     "plugin/obsidian-sample-plugin/tsconfig.json",
     "plugin/obsidian-sample-plugin/styles.css",
     "plugin/obsidian-sample-plugin/package.json",
-    "plugin/obsidian-sample-plugin/manifest.json",
-    "plugin/obsidian-sample-plugin/main.ts",
-    "plugin/obsidian-sample-plugin/esbuild.config.mjs",
     "plugin/obsidian-sample-plugin/README.md",
-    "plugin/obsidian-sample-plugin",
-    "plugin",
     "content/blog/obsidian插件开发-自定义命令/未命名.md",
     "content/blog/personal_blog_design/index.md",
     "content/blog/personal_blog_design/featured.png",
     "content/blog/personal_blog_design/未命名.md",
-    "content/blog/leetcode_array/index.md",
     "content/blog/leetcode_array/未命名.md",
     "content/blog/personal_blog_design/未命名.canvas",
-    "content/blog/_index.md",
     "notes/AI技术栈.canvas",
     "notes/Pasted image 20240918101809.png",
     "notes/markdown.md.md",
@@ -150,14 +193,10 @@
     "assets/media/avatar.svg",
     "content/blog/personal_blog_design/Pasted image 20240820165409.png",
     "content/blog/personal_blog_design/Pasted image 20240820165405.png",
-    "content/blog/personal_blog_design/Pasted image 20240819190718.png",
-    "content/blog/personal_blog_design/Pasted image 20240820161304.png",
     "content/blog/project-management/index.md",
     "content/blog/second-brain/index.md",
     "content/blog/data-visualization/index.md",
     "content/uses.md",
-    "content/_index.md",
-    "content/tags/_index.md",
-    "2023-10-25.md"
+    "content/_index.md"
   ]
 }
