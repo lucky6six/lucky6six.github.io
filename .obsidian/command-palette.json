@@ -1,9 +1,9 @@
 {
   "pinned": [
+    "editor:toggle-code",
+    "editor:insert-codeblock",
     "obsidian-markdown-formatting-assistant-plugin:open-callouts-selector",
-    "obsidian-markdown-formatting-assistant-plugin:open-command-selector",
     "obsidian-git:push2",
-    "obsidian-git:commit",
     "obsidian-git:commit-specified-message",
     "obsidian-git:add-to-gitignore",
     "obsidian-git:edit-gitignore"
