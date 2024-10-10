@@ -27,7 +27,7 @@ commentable: true
 
 - 设计[负载均衡](https://zhida.zhihu.com/search?content_id=245379169&content_type=Article&match_order=1&q=%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1&zhida_source=entity)路由函数[13，19，55]，使分布式GPU的计算工作负载更加平衡。
 - 设计高效的通信方法，包括通信效率高的1D或2D分层A2A算法[1，16，26，31，36]和[数据压缩算法](https://zhida.zhihu.com/search?content_id=245379169&content_type=Article&match_order=1&q=%E6%95%B0%E6%8D%AE%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95&zhida_source=entity)[52]，以减少通信量。
-- 设计[任务调度](https://zhida.zhihu.com/search?content_id=245379169&content_type=Article&match_order=1&q=%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6&zhida_source=entity)算法[14，16，20，22，30]，以交错通信任务和计算任务，从而隐藏通信成本。
+- 设计[任务调度](https://zhida.zhihu.com/search?content_id=245379169&content_type=Article&match_order=1&q=%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6&zhida_source=entity)算法[[[14，16，20，22，30]]]，以交错通信任务和计算任务，从而隐藏通信成本。
 
 在系统优化方面，后两个方向更适合提高[分布式系统](https://zhida.zhihu.com/search?content_id=245379169&content_type=Article&match_order=1&q=%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F&zhida_source=entity)的扩展效率，同时保持MoE层的快速收敛特性，但它们仍然有几个局限性：
 
@@ -48,7 +48,6 @@ commentable: true
 ![](https://pic1.zhimg.com/80/v2-d6b2be805947fb5adf6ec1c03dbdecfc_1440w.webp)
 
 - 设计了一种新的A2A算法，即Pipe-A2A，对节点内通信和节点间通信进行流水线传输，同时利用节点内带宽和节点间带宽来提高通信效率。  
-    
 
 ![](https://pic2.zhimg.com/80/v2-880ac88cfe9d04fc9056e6478e94de39_1440w.webp)
 
