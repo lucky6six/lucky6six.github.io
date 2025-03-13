@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md",
+                "file": "content/blog/dedup研究综述/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md",
+                "file": "content/blog/dedup研究综述/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md",
+                "file": "content/blog/dedup研究综述/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/personal_blog_design/index.md"
+                "file": "content/blog/dedup研究综述/index.md"
               }
             }
           }
@@ -167,6 +167,12 @@
   },
   "active": "93fcb8f75c44c438",
   "lastOpenFiles": [
+    "content/blog/dedup研究综述/featured.png",
+    "content/blog/dedup研究综述/index.md",
+    "content/blog/example/index.md",
+    "content/blog/example/featured.png",
+    "content/blog/personal_blog_design/index.md",
+    "content/blog/dedup研究综述",
     "content/blog/scheMoE论文精读/index.md",
     "content/blog/scheMoE论文精读/featured.png",
     "content/blog/leetcode/leetcode7_回溯组合/featured.png",
@@ -184,12 +190,8 @@
     "content/blog/leetcode2_list/featured.png",
     "content/blog/leetcode2_list/index.md",
     "content/blog/leetcode1_array/index.md",
-    "content/blog/leetcode1_array/featured.png",
-    "content/blog/leetcode1_array/featured.png",
     "content/blog/混合内存精准测试/index.md",
-    "content/blog/personal_blog_design/index.md",
     "content/blog/_index.md",
-    "content/blog/example/index.md",
     "content/authors/admin/_index.md",
     "content/authors/_index.md",
     "ignore/pytorch/pytorch编译安装.md",
@@ -207,11 +209,8 @@
     "content/blog/leetcode_7回溯组合",
     "content/blog/leetcode/leetcode6_tree",
     "content/blog/leetcode5_stack_and_queue",
-    "content/blog/leetcode4_string",
     "content/blog/leetcode1_list/index.md",
     "content/blog/leetcode_array/index.md",
-    "content/blog/leetcode_回溯分割/index.md",
-    "content/blog/leetcode_回溯组合/index.md",
     "content/blog/personal_blog_design/未命名.canvas",
     "notes/AI技术栈.canvas",
     "notes/深度学习架构.canvas"
