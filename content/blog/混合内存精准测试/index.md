@@ -154,4 +154,3 @@ docker run --cpuset-cpus=$CPU_CORE --cpuset-mems=$NUMA_NODE --name nvm_test_cont
 
 docker run --privileged --cpuset-cpus=$CPU_CORE --cpuset-mems=$NUMA_NODE --name nvm_test_container -v $(pwd):/sysbench_nvm_test -it nvm_test_container /bin/bash -c "numactl --membind=0,1 /sysbench_nvm_test/run.sh \"$TYPE\""
 ```
-
