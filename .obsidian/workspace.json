@@ -16,10 +16,25 @@
                 "file": "content/blog/dedup研究综述/index.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "3595ae95371cfb9f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,8 +53,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -86,8 +108,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -95,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "SC-custom-variables-view",
-              "state": {}
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -103,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "SC-custom-variables-view",
-              "state": {}
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
@@ -112,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/dedup研究综述/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +149,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -129,10 +160,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/dedup研究综述/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -141,8 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/dedup研究综述/index.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ],
@@ -165,7 +201,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "93fcb8f75c44c438",
+  "active": "3595ae95371cfb9f",
   "lastOpenFiles": [
     "content/blog/dedup研究综述/featured.png",
     "content/blog/dedup研究综述/index.md",
