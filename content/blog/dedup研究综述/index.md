@@ -1,5 +1,5 @@
 ---
-title: title
+title: dedup研究综述
 summary: summary
 date: 2025-01-19
 authors:

@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c49ea25976af092e",
+        "id": "2bf1f3e7fb878950",
         "type": "tabs",
         "children": [
           {
-            "id": "93fcb8f75c44c438",
+            "id": "0e519d3c6891c011",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/dedup研究综述/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "3595ae95371cfb9f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,11 +184,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "3595ae95371cfb9f",
+  "active": "0e519d3c6891c011",
   "lastOpenFiles": [
+    "content/blog/数据结构 c++版/index.md",
+    "content/blog/数据结构 c++版/featured.png",
     "content/blog/dedup研究综述/featured.png",
     "content/blog/dedup研究综述/index.md",
+    "content/blog/leetcode1_array/index.md",
     "content/blog/example/index.md",
+    "content/blog/数据结构 c++版",
     "content/blog/example/featured.png",
     "content/blog/personal_blog_design/index.md",
     "content/blog/dedup研究综述",
@@ -223,9 +210,7 @@
     "content/blog/leetcode3_hash/index.md",
     "content/blog/leetcode3_hash/featured.png",
     "content/blog/leetcode2_list/featured.png",
-    "content/blog/leetcode2_list/featured.png",
     "content/blog/leetcode2_list/index.md",
-    "content/blog/leetcode1_array/index.md",
     "content/blog/混合内存精准测试/index.md",
     "content/blog/_index.md",
     "content/authors/admin/_index.md",
@@ -244,7 +229,6 @@
     "content/blog/leetcode_7回溯组合/index.md",
     "content/blog/leetcode_7回溯组合",
     "content/blog/leetcode/leetcode6_tree",
-    "content/blog/leetcode5_stack_and_queue",
     "content/blog/leetcode1_list/index.md",
     "content/blog/leetcode_array/index.md",
     "content/blog/personal_blog_design/未命名.canvas",
